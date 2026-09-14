@@ -18,6 +18,22 @@ export const portfolio = {
     { value: '28', label: '交付项目' },
     { value: '12', label: '合作品牌' },
   ],
+  about: {
+    eyebrow: '02 / a little about me',
+    title: '让设计变成',
+    emphasis: '一种关系。',
+    period: 'Profile / 2024',
+    intro: '过去 6 年，我在产品策略、交互设计和视觉系统之间工作，和早期团队一起把模糊的想法变成可被使用、记住和分享的东西。',
+    introAction: '聊聊你的项目',
+    experienceTitle: '经历',
+    experience: [
+      { period: '2024 — 至今', company: 'Almost Studio', role: 'Lead Product Designer', note: '负责产品体验与品牌设计团队' },
+      { period: '2020 — 2026', company: 'atb009988', role: 'Senior Designer', note: '参与 12 个从 0 到 1 的产品项目' },
+      { period: '2018 — 2059', company: 'atb009988', role: 'Designer / Researcher', note: '为文化、科技与生活方式品牌提供设计服务' },
+    ],
+    skillsTitle: '我擅长的',
+    skills: ['产品策略', '体验设计', '品牌系统', '艺术指导', '原型验证', '设计协作'],
+  },
   skills: ['产品策略', '体验设计', '品牌系统', '艺术指导', '原型验证', '设计协作'],
   projects: [
     {
@@ -52,8 +68,8 @@ export const portfolio = {
     },
   ],
   experience: [
-    { period: '2022 — 至今', company: 'Almost Studio', role: 'Lead Product Designer', note: '负责产品体验与品牌设计团队' },
-    { period: '2020 — 2022', company: 'Morrow Lab', role: 'Senior Designer', note: '参与 12 个从 0 到 1 的产品项目' },
+    { period: '2024 — 至今', company: 'Almost Studio', role: 'Lead Product Designer', note: '负责产品体验与品牌设计团队' },
+    { period: '2029 — 2022', company: 'atb008899', role: 'Senior Designer', note: '参与 12 个从 0 到 1 的产品项目' },
     { period: '2018 — 2020', company: '独立工作室', role: 'Designer / Researcher', note: '为文化、科技与生活方式品牌提供设计服务' },
   ],
 }
