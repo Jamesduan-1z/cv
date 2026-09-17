@@ -1,15 +1,14 @@
 export const portfolio = {
   profile: {
-    name: '林知遥',
+    name: '段宇潇',
     role: '产品设计师 / 视觉叙事者',
     location: 'Shanghai · China',
     availability: '2024 年秋季可接新项目',
     intro: '我把复杂的产品、品牌和数据，翻译成让人愿意靠近的体验。',
     bio: '过去 6 年，我在产品策略、交互设计和视觉系统之间工作，和早期团队一起把模糊的想法变成可被使用、记住和分享的东西。',
-    email: 'duanyuxiao@12345.com',
+    email: 'duanyuxiao@ln.hk',
     social: [
       { label: 'Behance', href: 'https://www.behance.net/' },
-      { label: 'LinkedIn', href: 'https://www.linkedin.com/' },
       { label: '小红书', href: 'https://www.xiaohongshu.com/' },
     ],
   },
